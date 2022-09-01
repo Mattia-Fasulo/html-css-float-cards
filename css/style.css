@@ -41,6 +41,7 @@ header {
   margin-top: 50px;
   color: white;
   box-shadow: 1px 1px 10px black;
+  min-width: 300px;
 }
 
 .m-r {
