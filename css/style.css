@@ -1,0 +1,23 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* scaffold */
+html{
+    font-family: Fredoka;
+}
+
+header{
+    width: 100%;
+    min-height: 200px;
+    
+}
+
+.main-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
