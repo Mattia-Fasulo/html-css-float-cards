@@ -31,3 +31,33 @@ header {
 .main-text {
   text-align: center;
 }
+
+/* card */
+.cards {
+  float: left;
+  background-color: black;
+  height: 100px;
+  width: calc((100% - 60px) / 3);
+  margin-top: 50px;
+  color: white;
+  box-shadow: 1px 1px 10px black;
+}
+
+.m-r {
+  margin-right: 30px;
+}
+
+address {
+  color: rgb(119, 184, 229);
+}
+
+.cards img {
+  height: 100%;
+  margin-right: 10px;
+  float: left;
+}
+
+.data-team {
+    line-height: 1.7em;
+    padding: 10px;
+}
