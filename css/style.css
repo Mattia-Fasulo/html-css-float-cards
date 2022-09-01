@@ -13,7 +13,7 @@ html{
 header{
     width: 100%;
     min-height: 200px;
-    
+    text-align: center;
 }
 
 .main-container{
@@ -21,3 +21,8 @@ header{
     margin: 0 auto;
 }
 
+/* header */
+#title{
+    padding-top: 70px;
+    color: rgb(238, 82, 133);
+}
