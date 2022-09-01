@@ -6,23 +6,28 @@
 }
 
 /* scaffold */
-html{
-    font-family: Fredoka;
+html {
+  font-family: Fredoka;
 }
 
-header{
-    width: 100%;
-    min-height: 200px;
-    text-align: center;
+header {
+  width: 100%;
+  min-height: 100px;
+  text-align: center;
 }
 
-.main-container{
-    width: 80%;
-    margin: 0 auto;
+.main-container {
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* header */
-#title{
-    padding-top: 70px;
-    color: rgb(238, 82, 133);
+#title {
+  padding-top: 30px;
+  color: rgb(238, 82, 133);
+}
+
+/* text */
+.main-text {
+  text-align: center;
 }
